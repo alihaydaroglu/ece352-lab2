@@ -1,0 +1,8 @@
+Jiading Zhu 1002445874
+Ali Haydarogu
+
+Answers:
+1. Reading a sensor value of 0x00 means that all five sensors in front of the car are currently off the track.
+2. The information is sent to change the steering into a rather hard left turn (-100).
+3. A two-byte command: the first byte being 0x04 and the next byte being 0x7F.
+
